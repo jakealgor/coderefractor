@@ -24,6 +24,6 @@ In my application, the user will be shown the Herison Homepage. In the code, to 
 
 # Github
 
-* 
+* https://github.com/jakealgor/coderefractor
 
-* 
+* https://jakealgor.github.io/coderefractor/
